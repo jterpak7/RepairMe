@@ -1,6 +1,6 @@
 ## RepairMe
 
-Owners are Austin Baggio, Andrew Black, Noah Chait, Sam Mallabone, Jak Terpak
+Owners are Austin, Andrew, Noah, Sam, Jak 
 
 ## Standard Practices
 In an attempt to keep the development process clean and cooperative, there will be several rules that will be enforced for the project. The rules listed below are to be followed to the best of the developers ability. By adhering to these rules, it will allow for the codebase to only contain readable code, simplify the pull-request and merge process, and properly track open issues within the project.
