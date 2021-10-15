@@ -1,0 +1,37 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.3.4",
+    "axios": "^0.18.0",
+    "buffer": "^5.2.1",
+    "expo": "^31.0.6",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "node-notifier": "^5.4.0",
+    "npm": "^6.9.0",
+    "react": "16.5.0",
+    "react-icons": "^3.3.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-elements": "^1.0.0-beta7",
+    "react-native-gifted-chat": "^0.7.2",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-snackbar-component": "^1.1.0",
+    "react-native-uuid": "^1.4.9",
+    "react-native-vector-icons": "^6.2.0",
+    "react-navigation": "^2.18.3",
+    "styled-react-native": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  }
+}

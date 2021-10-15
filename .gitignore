@@ -1,0 +1,4 @@
+Backend/node_modules/*
+Mobile/node_modules/*
+Mobile/.expo/*
+WebPortal/node_modules/*
